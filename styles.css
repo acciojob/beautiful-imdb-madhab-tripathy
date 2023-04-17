@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+.movie-post{
+	
+}
+.moviePic{
+	height:400px;
+	width:250px;
+	opacity:0.8;
+}
+.movieDetail{
+	position:absolute;
+	top:0;
+	width:100%;
+	texr-align:center;
+}
