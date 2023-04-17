@@ -1,19 +1,28 @@
 
 /* Your CSS Code here. */
+*{
+	margin:0;
+	padding:0;
+}
 .movie-post{
-	position:relative;
-/* 	background-color:rgb(24,48,30); */
+	
+	width: 100%;
+	display: flex;
 }
 .moviePic{
 	height:400px;
 	width:250px;
 	opacity:0.8;
 }
+.movies{
+	margin-left:16px
+}
 .movieDetail{
-	position:av
+	position: static;
 	top:0;
-	width:80%;
-	texr-align:right;
-	font-size:1.4rem;
+	width:100%;
+	padding:20px 0;
+	texr-align:center;
+	font-size:24px;
 }
 
