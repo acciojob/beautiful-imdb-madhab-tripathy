@@ -1,6 +1,7 @@
 
 /* Your CSS Code here. */
 .movie-post{
+	position:relative;
 /* 	background-color:rgb(24,48,30); */
 }
 .moviePic{
@@ -9,7 +10,7 @@
 	opacity:0.8;
 }
 .movieDetail{
-	position:relative;
+	position:absolute;
 	top:0;
 	width:80%;
 	texr-align:right;
