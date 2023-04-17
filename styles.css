@@ -5,13 +5,12 @@
 /* 	background-color:rgb(24,48,30); */
 }
 .moviePic{
-
 	height:400px;
 	width:250px;
 	opacity:0.8;
 }
 .movieDetail{
-	position:absolute;
+	position:av
 	top:0;
 	width:80%;
 	texr-align:right;
